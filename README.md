@@ -1,7 +1,7 @@
-![leetcode-company-wise-problems-2022](https://socialify.git.ci/hxu296/leetcode-company-wise-problems-2022/image?font=Inter&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![leetcode-company-wise-problems](https://socialify.git.ci/hxu296/leetcode-company-wise-problems-2022/image?font=Inter&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
 ## Leetcode Company-wise Problem Lists
 
-Curated lists of Leetcode questions group by companies, updated as of May, 2022.
+Curated lists of Leetcode questions group by companies.
 
 Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishercoder1534/Leetcode) repo for solutions.
 
